@@ -1,0 +1,26 @@
+style.css
+body{ 
+    font-family: ARIAL, SANS-SERIF; 
+    margin: 0; 
+    padding: 0; 
+    background-color: #cc1d1d;
+}
+header{
+    background:#6098bb;
+    color: #f5efef;
+    padding: 10px0;
+    text-align: center;
+}
+main{
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    background: #35424a;
+    color: white;
+    text-align: center;
+    padding: 10px0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
